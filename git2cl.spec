@@ -4,7 +4,7 @@ Version: 2.0
 Release: 0.0.git8373c9f
 Group: Development/Other
 License: GPLv2+
-URL: http://josefsson.org/git2cl/
+URL: https://josefsson.org/git2cl/
 # Source is generated from a git tag. This
 # shows an example of producing a tar ball from
 # the  2.0 tag.
